@@ -1,8 +1,11 @@
-### Hi there 👋
+### Hi there 👋, I'm Robin!
 
-- 🌱 I’m currently learning Java, Spring, and algorithm.
-- 🥰 I’m interested in photography📷, badminton🏸, stew soup/porridge👩‍🍳.
+- 👩‍💻 Junior Software Engineer (love BackEnd more than FrontEnd
+- 🤩 Wanna become a self-taught programmer and do cool stuff.
 - 📫 How to reach me: WeChat @Robin_Taylor or Email robin_liu_work@163.com
+- 🌱 A simple record of my coding status during last 7 days.
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinliuhhh)](https://github.com/anuraghazra/github-readme-stats)
+
 <!--
 **robinliuhhh/robinliuhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -17,5 +20,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinliuhhh)](https://github.com/anuraghazra/github-readme-stats)
