@@ -4,7 +4,8 @@
 - 🤩 Wanna become a self-taught programmer and do cool stuff.
 - 📫 How to reach me: WeChat @Robin_Taylor or Email robin_liu_work@163.com
 - 🌱 A simple record of my coding status during last 7 days.
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinliuhhh)](https://github.com/anuraghazra/github-readme-stats)
+[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinliuhhh&layout=compact&v=2)](https://wakatime.com/@robinliuhhh)
+
 
 <!--
 **robinliuhhh/robinliuhhh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
