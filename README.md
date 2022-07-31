@@ -3,7 +3,7 @@
 - 👩‍💻 Junior Software Engineer (love BackEnd more than FrontEnd
 - 🤩 Wanna become a self-taught programmer and do cool stuff.
 - 🌱 A simple record of my coding status during last 7 days.
-[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinliuhhh&layout=compact&v=2)](https://wakatime.com/@robinliuhhh)
+[![Weekly stats](https://github-readme-stats.vercel.app/api/wakatime?username=robinliuhhh&layout=compact)](https://wakatime.com/@robinliuhhh)
 
 #### Languages and Tools
 
